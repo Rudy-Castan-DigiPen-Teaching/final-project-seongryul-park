@@ -17,11 +17,17 @@ _I can use variables to use like a box to put something and make more simply tha
 let value  = 0;
 
 if (value == 0 ){
+
   fill(value);
+  
   value = 255;
+
 } else if (value == 255) {
+
   fill(value);
+  
   value = 0;
+
 }
 
 # Conditional Statements
@@ -30,16 +36,22 @@ _I think it is really important for me to control overall of the games._
 
 _To use conditional statements, player can opening the doors or can watch event._
 
-
 let value  = 0;
 
 if (value == 0 ){
+
   fill(value);
+  
   value = 255;
+
 } else if (value == 255) {
+
   fill(value);
+  
   value = 0;
+
 }
+
 
 # Loops
 
