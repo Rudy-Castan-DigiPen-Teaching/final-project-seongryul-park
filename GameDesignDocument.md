@@ -40,3 +40,4 @@ _I will post the picture in last of markdown._
 
 _Player can move, attack enemys and interact with npc._
 
+![](https://cdn.discordapp.com/attachments/708250097200267284/724969139239911523/20200623_213909.jpg)
