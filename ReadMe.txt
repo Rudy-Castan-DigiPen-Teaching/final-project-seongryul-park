@@ -1,4 +1,4 @@
-_We can play this game to use a, s, d, w._
+_ We can play this game to use a, s, d, w. _
 
 _Player can move around map free_
 
