@@ -1,3 +1,5 @@
+// express world, show game manual at first and express you died or clear this game
+
 
 let world = 0;
 let menuMode = 0;
