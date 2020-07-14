@@ -1,3 +1,5 @@
+// it is most important source in the game to make world, player and enemies totally to interact with the other.
+
 
 function preload() {
   img_down = loadImage('downstair.jpg');
