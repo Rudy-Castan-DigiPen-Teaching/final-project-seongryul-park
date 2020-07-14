@@ -1,3 +1,5 @@
+// it can make player
+
 var Player = {
   position : null,
   velocity : null,
