@@ -1,3 +1,5 @@
+// make a separate enemies
+
 var Enemies = {
   position : null,
   velocity : null,
