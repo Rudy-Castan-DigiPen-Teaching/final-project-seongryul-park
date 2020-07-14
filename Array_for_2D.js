@@ -1,3 +1,5 @@
+//set 2D array
+
 function Array_for_2D(rows, columns) {
   let grid = [];
   for (let i = 0; i < rows; ++i)
