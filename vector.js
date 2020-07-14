@@ -1,3 +1,5 @@
+// to make vector function
+
 var vector = {
 	_x: 1,
 	_y: 0,
